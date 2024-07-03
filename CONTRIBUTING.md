@@ -6,7 +6,7 @@ Firstly, thank you for your interest in contributing to our project! Every contr
 
 We use GitHub issues to track public bugs and suggest enhancements. These are a great place to ask questions and get help for the project. 
 
-### Before Submitting a New Issue
+### Before Submitting a New Issue:
 
 Before you submit an issue, please do a search in open issues to see if the issue or enhancement has already been filed. If it has and the issue is still open, add a comment to the existing issue instead of opening a new one. If you find a Closed issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue.
 
