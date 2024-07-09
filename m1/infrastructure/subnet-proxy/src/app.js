@@ -383,7 +383,7 @@ app.use((err, req, res, next) => {
     res.status(404);
     res.json({
         error_code: 'account_not_found',
-        message: 'Internal Server Error',
+        message: `Internal Server Error: ${err.message}`,
     });
 });
 app.listen(PORT, () => {
