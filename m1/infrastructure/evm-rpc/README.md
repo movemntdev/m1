@@ -33,7 +33,7 @@ The following RPC methods have been implemented to ensure interaction with Solid
 
 ### Start Your EVM RPC
 
-> If you don't want to start the EVM RPC yourself, you can found the link at `https://github.com/movemntdev/movement-v2`
+> If you don't want to start the EVM RPC yourself, you can find the link at `https://github.com/movemntdev/movement-v2`
 
 - Set environment variables
 ```bash
@@ -42,9 +42,9 @@ mv .env.example .env
 
 - `NODE_URL`: The subnet restful endpoint provided by the movement subnet`
 
-- `EVM_SENDER`: The private key of a account to send EVM transactions to the Move. Please ensure that the account has enough MOVE native token to pay for the gas fee.(At least 10)
+- `EVM_SENDER`: The private key of an account to send EVM transactions to the Move. Please ensure that the account has enough MOVE native token to pay for the gas fee. (At least 10)
 
-- `FAUCET_SENDER`: The private key of a account to send bridge move native token to evm native token. Please ensure that the account has enough MOVE native token to pay for the gas fee and bridge token.(At least 10)
+- `FAUCET_SENDER`: The private key of an account to send bridge move native token to evm native token. Please ensure that the account has enough MOVE native token to pay for the gas fee and bridge token. (At least 10)
 
 
 Then, run the following command to start the server:
