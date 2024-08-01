@@ -47,7 +47,7 @@ In order for the indexer to write to the database listening on port `5432`, you 
 ```shell
 docker run --name m1-indexer-db -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d postgres
 ```
-If you are not running the database, the trailer thread in the M1 subnet will panick. However, this will not affect the rest of the execution.
+If you are not running the database, the trailer thread in the M1 subnet will panic. However, this will not affect the rest of the execution.
 
 # WIP
 We are pursuing several improvements to local debugging and testing.
