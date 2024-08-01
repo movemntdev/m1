@@ -30,7 +30,7 @@
 
 The Move programming language poses numerous benefits to builders including direct interaction with digital assets through custom resource types, flexibility with transaction script declaration, on-chain verification, and bytecode safety privileges.
 
-Movement M1 is designed for the Avalanche subnet, allowing users to seamlessly interact with and build with the Move language on on a high-performance, modular, scalable and interoperable Layer 1.
+Movement M1 is designed for the Avalanche subnet, allowing users to seamlessly interact with and build with the Move language on a high-performance, modular, scalable and interoperable Layer 1.
 
 - Movement will be able to hit 160,000+ theoretical TPS as the project scales to provide much needed performance to protocols.
 - Move bytecode verifiers and interpreters provide native solvency for the reentrancy attacks and security woes that have plagued Solidity developers for years, resulting in $3 billion lost last year.
