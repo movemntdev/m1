@@ -7,9 +7,9 @@
 [![Tests](https://img.shields.io/badge/tests-Passing-brightgreen)](#)
 [![Build Status](https://img.shields.io/badge/build-Passing-brightgreen)](#)
 [![Coverage](https://img.shields.io/codecov/c/github/username/project.svg)](https://codecov.io/gh/username/project)
-[![Windows](https://img.shields.io/badge/Windows-Download-blue)](https://github.com/movemntdev/m1/releases)
-[![macOS](https://img.shields.io/badge/macOS-Download-blue)](https://github.com/movemntdev/m1/releases)
-[![Linux](https://img.shields.io/badge/Linux-Download-blue)](https://github.com/movemntdev/m1/releases)
+[![Windows](https://img.shields.io/badge/Windows-Download-blue)](https://github.com/movementlabsxyz/M1/releases)
+[![macOS](https://img.shields.io/badge/macOS-Download-blue)](https://github.com/movementlabsxyz/M1/releases)
+[![Linux](https://img.shields.io/badge/Linux-Download-blue)](https://github.com/movementlabsxyz/M1/releases)
 
 **An L1 for Move VM built on Avalanche.**
 
@@ -30,12 +30,12 @@
 
 The Move programming language poses numerous benefits to builders including direct interaction with digital assets through custom resource types, flexibility with transaction script declaration, on-chain verification, and bytecode safety privileges.
 
-Movement M1 is designed for the Avalanche subnet, allowing users to seamlessly interact with and build with the Move language on on a high-performance, modular, scalable and interoperable Layer 1.
+Movement M1 is designed for the Avalanche subnet, allowing users to seamlessly interact with and build with the Move language on a high-performance, modular, scalable and interoperable Layer 1.
 
 - Movement will be able to hit 160,000+ theoretical TPS as the project scales to provide much needed performance to protocols.
 - Move bytecode verifiers and interpreters provide native solvency for the reentrancy attacks and security woes that have plagued Solidity developers for years, resulting in $3 billion lost last year.
 
-This repository contains the code and contributor documentation for M1. If you would like to learn how to use and develop for the platform, please visit [https://docs.movementlabs.xyx](https://docs.movementlabs.xyz).
+This repository contains the code and contributor documentation for M1. If you would like to learn how to use and develop for the platform, please visit [https://docs.movementlabs.xyz](https://docs.movementlabs.xyz).
 
 ## Features
 
